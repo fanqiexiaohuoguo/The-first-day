@@ -1,0 +1,15 @@
+<！doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>我的第一个网页</title>
+<style>
+h1{
+color:pink;
+}
+</style>
+</head>
+<body>
+<h1>加油，番茄小火锅</h1>
+</body>
+</html>
